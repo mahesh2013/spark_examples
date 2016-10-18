@@ -1,1 +1,1 @@
-# This repository lists Spark example run on Spark cluster
+# This repository lists Spark examples to run on Spark cluster
